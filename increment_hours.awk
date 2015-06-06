@@ -19,7 +19,7 @@ BEGIN {FS="'"}
             } else
                 printf $i;
         }
-    print "', 1);"; #Hardcoded adding the end with user id 1
+    print "', 1);"; #Hardcoded appending of the end of the command -  with user id 1
 next}
 1
 
