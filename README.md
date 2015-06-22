@@ -1,1 +1,1 @@
-My `AWK` scripts which I deemmed worthy of storing.
+My `AWK` scripts worth storing
